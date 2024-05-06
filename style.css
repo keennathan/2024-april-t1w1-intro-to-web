@@ -4,3 +4,9 @@ h1{
 body{
     background-color: blanchedalmond;
 }
+h2{
+    color: brown;
+}
+.article_p {
+    font-size: 25px;
+}
