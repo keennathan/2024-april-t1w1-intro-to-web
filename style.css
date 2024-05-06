@@ -8,5 +8,21 @@ h2{
     color: brown;
 }
 .article_p {
-    font-size: 25px;
+    font-size: 1.5em;
+}
+ul{
+    background-color: black;
+}
+li{
+    
+    color: brown
+}
+li:nth-child(2n) {
+    background-color: gold;
+}
+li:hover{
+    background-color: hotpink;
+}
+img{
+    max-width:50vw ;
 }
